@@ -1,5 +1,7 @@
-### _Positive & Passionate_
-# I'm YooJin Ra 
+<div style="text-align:center;">
+  <h3>_Positive & Passionate_</h3>
+  <h1>I'm YooJin Ra</h1>
+</div>
 
 > ......
 
