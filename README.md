@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://www.instagram.com/dev___yoo/" target="_blank"><img src="https://img.shields.io/badge/Yoojin'sInstagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=YooJinRa)](https://github.com/ryo-ma/github-profile-trophy)
 ![YooJinRa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YooJinRa&theme=swift&show_icons=true&border_radius=0)
