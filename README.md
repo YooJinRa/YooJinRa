@@ -9,7 +9,7 @@
 
 ## Skills :sparkles:
 ### Languages & Platforms
-<p>
+<p align=center>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
@@ -19,10 +19,12 @@
 </p>
 
 ## Github Stats :sparkles:
-[![trophy](https://github-profile-trophy.vercel.app/?username=YooJinRa&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<div align=center>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=YooJinRa&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 ## Contacts :sparkles:
-<div>
+<div align=center>
   <img src="https://img.shields.io/badge/@dev___yoo-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
   <img src="https://img.shields.io/badge/dev.rayoojin@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 </div>
