@@ -18,6 +18,5 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 </p>
-<br />
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=YooJinRa&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-<!--![YooJinRa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YooJinRa&theme=swift&show_icons=true&border_radius=0) -->
