@@ -1,7 +1,6 @@
 <div style="width:100%; text-align:center;">
   <h3>_Positive & Passionate_</h3>
-  <h1>I'm YooJin Ra</h1>
-  <p>_____</p>
+  <h1>I'm YooJin Ra:relaxed:</h1>
 </div>
 
 > ......
