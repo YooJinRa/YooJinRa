@@ -9,8 +9,8 @@
 > 제가 재미있어하는 일을 하면서 살 때 행복하다고 확신하며,<br />
 > 저에겐 그 일이 개발이라 생각합니다.<br />
 
-#### Skills:sparkles:
-##### Languages & Platforms
+## Skills:sparkles:
+### Languages & Platforms
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5t&logoColor=white">
@@ -19,4 +19,5 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 </p>
 
+## Github Stats:sparkles:
 [![trophy](https://github-profile-trophy.vercel.app/?username=YooJinRa&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
