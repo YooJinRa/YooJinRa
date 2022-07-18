@@ -6,6 +6,12 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 </p>
 
+<div align=center>
+  <a href="https://www.instagram.com/dev___yoo/" target="_blank">
+    <img src="https://img.shields.io/badge/@dev___ra-E4405F?style=flat-square&logo=Instagram&logoColor=black"/>
+  </a>
+</div>
+
 :purple_heart::purple_heart::purple_heart:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YooJinRa&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
@@ -41,6 +47,8 @@
 
 <h2 align=center>Contacts :sparkles:</h2>
 <div align=center>
-  <a href="https://www.instagram.com/dev___yoo/" target="_blank"><img src="https://img.shields.io/badge/@dev___yoo-E4405F?style=flat-square&logo=Instagram&logoColor=white" height="28px"/></a>
+  <a href="https://www.instagram.com/dev___yoo/" target="_blank">
+    <img src="https://img.shields.io/badge/@dev___yoo-E4405F?style=flat-square&logo=Instagram&logoColor=white" height="28px"/>
+  </a>
   <a href="mailto:dev.rayoojin@gmail.com"><img src="https://img.shields.io/badge/dev.rayoojin@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 </div>
