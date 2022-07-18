@@ -1,21 +1,3 @@
-<p align=center>
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-ffffff?style=flat-square&logo=IntelliJ IDEA&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
-</p>
-
-<div align=center>
-  <a href="https://www.instagram.com/dev___yoo/">
-    <img src="https://img.shields.io/badge/@dev___yoo-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-  </a>
-</div>
-
-:purple_heart::purple_heart::purple_heart:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YooJinRa&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 <h3 align=center>Positive & Passionate</h3>
 <h1 align=center>I'm YooJin Ra :purple_heart:</h1>
 
