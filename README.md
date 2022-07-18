@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 </p>
 
+:purple_heart::purple_heart::purple_heart:
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=YooJinRa&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align=center>Positive & Passionate</h3>
