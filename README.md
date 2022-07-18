@@ -1,5 +1,5 @@
 <h3 align=center>Positive & Passionate</h3>
-<h1 align=center>I'm YooJin Ra :purple_heart:</h1>
+<h1 align=center>I'm YooJin Ra</h1>
 
 <p align=center>
   2022년 7월:herb:<br />
