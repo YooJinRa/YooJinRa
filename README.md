@@ -11,7 +11,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=YooJinRa&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align=center>Positive & Passionate</h3>
-<h1 align=center>I'm YooJin Ra</h1>
+<h1 align=center>I'm YooJin Ra :purple_heart:</h1>
 
 <p align=center>
   2022년 7월:herb:<br />
