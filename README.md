@@ -1,7 +1,7 @@
-<h3 align=center>Positive & Passionate</h3>
-<h1 align=center>I'm YooJin Ra</h1>
+<h3>Positive & Passionate</h3>
+<h1>I'm YooJin Ra</h1>
 
-<p align=center>
+<p>
   2022년 7월:herb:<br />
   좋은 개발자가 되기 위해 도전합니다.<br />
   인생을 어떻게 살면 좋을까 고민을 했을 때,<br />
@@ -9,9 +9,9 @@
   저에겐 그 일이 개발이라 생각합니다.<br />
  </p>
 
-<h2 align=center>Skills :sparkles:</h2>
-<h3 align=center>Languages & Platforms</h3>
-<p align=center>
+<h2>Skills :sparkles:</h2>
+<h3>Languages & Platforms</h3>
+<p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
   <img src="https://img.shields.io/badge/Create React App-09D3AC?style=for-the-badge&logo=Create React App&logoColor=black">
@@ -27,12 +27,12 @@
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white">
 </p>
 
-<h2 align=center>Github Stats :sparkles:</h2>
+<h2>Github Stats :sparkles:</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YooJinRa&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h2 align=center>Contacts :sparkles:</h2>
-<div align=center>
+<h2>Contacts :sparkles:</h2>
+<div>
   <a href="https://www.instagram.com/dev___yoo/">
     <img src="https://img.shields.io/badge/@dev___yoo-E4405F?style=flat-square&logo=Instagram&logoColor=white" height="28px"/>
   </a>
