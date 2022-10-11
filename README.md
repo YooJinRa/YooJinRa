@@ -1,4 +1,8 @@
-## `Positive` `Passionate` `Persistence` `Smooth communication`
+<img src="https://img.shields.io/badge/Positive-CA4245?style=for-the-badge">
+<img src="https://img.shields.io/badge/Passionate-CA4245?style=for-the-badge">
+<img src="https://img.shields.io/badge/Persistence-CA4245?style=for-the-badge">
+<img src="https://img.shields.io/badge/Smooth communication-F7DF1E?style=for-the-badge">
+
 <h1>I'm YooJin Ra</h1>
 
 <p>
