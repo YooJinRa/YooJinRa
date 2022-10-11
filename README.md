@@ -1,7 +1,7 @@
 <p>
   <img src="https://img.shields.io/badge/Positive-CA4245?style=for-the-badge">
   <img src="https://img.shields.io/badge/Passionate-CA4245?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Persistence-CA4245?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Persistence-CA4245?style=for-the-badge"><br>
   <img src="https://img.shields.io/badge/Smooth communication-F7DF1E?style=for-the-badge">
 </p>
 
