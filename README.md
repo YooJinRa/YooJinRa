@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Positive-CA4245?style=flat-square">
   <img src="https://img.shields.io/badge/Passionate-CA4245?style=flat-square">
   <img src="https://img.shields.io/badge/Persistence-CA4245?style=flat-square"><br>
-  <img src="https://img.shields.io/badge/Smooth communication-F7DF1E?style=flat-square">
+  <img src="https://img.shields.io/badge/Smooth Communication-F7DF1E?style=flat-square">
 </p>
 
 <h1>I'm YooJin Ra</h1>
