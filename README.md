@@ -1,4 +1,4 @@
-## `Positive` `Passionate` `Smooth communication`
+## `Positive` `Passionate` `Persistence` `Smooth communication`
 <h1>I'm YooJin Ra</h1>
 
 <p>
