@@ -1,21 +1,21 @@
 <p>
+  <img src="https://img.shields.io/badge/Smooth Communication-F7DF1E?style=flat-square"><br>
   <img src="https://img.shields.io/badge/Positive-CA4245?style=flat-square">
   <img src="https://img.shields.io/badge/Passionate-CA4245?style=flat-square">
-  <img src="https://img.shields.io/badge/Persistence-CA4245?style=flat-square"><br>
-  <img src="https://img.shields.io/badge/Smooth Communication-F7DF1E?style=flat-square">
+  <img src="https://img.shields.io/badge/Persistence-CA4245?style=flat-square">
 </p>
 
 <h1>I'm YooJin Ra</h1>
 
 ```
-  🔥 끊임없는 성장에 대한 열정을 가진 프론트엔드 개발자 나유진입니다.
-  💪 ‘하면 된다.’ 긍정적 마인드로 도전합니다.
-  🌱 1일 1커밋을 목표로 꾸준한 노력을 하고 있습니다.
-  🚀 함께해서 이루어낸 결과에 보람을 느낍니다.
+🔥 끊임없는 성장에 대한 열정을 가진 프론트엔드 개발자 나유진입니다.
+💪 ‘하면 된다.’ 긍정적 마인드로 도전합니다.
+🌱 1일 1커밋을 목표로 꾸준한 노력을 하고 있습니다.
+🚀 함께해서 이루어낸 결과에 보람을 느낍니다.
 ```
 
-<h2>Tech Stack :sparkles:</h2>
-<h3>Frontend 💻</h3>
+<h2>Tech Stack</h2>
+<h3>💻 Frontend</h3>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 </p>
 
-<h3>DevOps 💻</h3>
+<h3>💻 DevOps</h3>
 <p>
   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon CloudFront-E05243?style=for-the-badge">
@@ -39,17 +39,17 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">
 </p>
-<h3>IDE 💻</h3>
+<h3>💻 IDE</h3>
 <p>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 </p>
 
-<h2>Github Stats :sparkles:</h2>
+<h2>Github Stats</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YooJinRa&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h2>Contacts :sparkles:</h2>
+<h2>Contacts</h2>
 <!-- <div>
   <a href="https://www.instagram.com/dev___yoo/">
     <img src="https://img.shields.io/badge/@dev___yoo-E4405F?style=flat-square&logo=Instagram&logoColor=white" height="28px"/>
