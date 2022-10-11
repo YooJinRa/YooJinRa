@@ -1,4 +1,4 @@
-<h3>`Positive`, `Passionate`, `Smooth communication`</h3>
+### `Positive`, `Passionate`, `Smooth communication`
 <h1>I'm YooJin Ra</h1>
 
 <p>
