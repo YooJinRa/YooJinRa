@@ -45,6 +45,18 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 </p>
 
+<h2>Project</h2>
+- [라이도](https://github.com/project-raidho/raidho_FE) "이미지 편집기능과 실시간 채팅을 활용한 여행 공유&모집 커뮤니티 서비스"
+  * 기간 : 2022.08.26 - 10.07(6주)
+  * 핵심경험
+    - 오류 예방을 위해 적용한 TypeScript
+    - ReduxToolkit과 LocalStorage를 활용한 최근검색기록 구현(태그 검색 기능구현)
+    - 원하는 비율로 편집할 수 있는 이미지 편집기능 및 이미지 리사이징 구현
+    - React Query와 Observer를 활용한 무한스크롤 구현
+    - GitHub Actions을 통한 CI/CD 환경 구축
+    - 글로벌 스타일을 활용한 다크앤라이트 모드 및 반응형 구현
+    - 리더의 역할맡아 프로젝트 진행(팀원들 간의 의견조율)
+
 <h2>Github Stats</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YooJinRa&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
