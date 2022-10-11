@@ -44,9 +44,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=YooJinRa&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2>Contacts :sparkles:</h2>
-<div>
+<!-- <div>
   <a href="https://www.instagram.com/dev___yoo/">
     <img src="https://img.shields.io/badge/@dev___yoo-E4405F?style=flat-square&logo=Instagram&logoColor=white" height="28px"/>
-  </a>
+  </a> -->
   <a href="mailto:dev.rayoojin@gmail.com"><img src="https://img.shields.io/badge/dev.rayoojin@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 </div>
