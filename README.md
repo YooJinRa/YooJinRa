@@ -26,10 +26,11 @@
 
 <h3>DevOps :sparkles:</h3>
 <p>
-  <img src="https://img.shields.io/badge/GitHub Pages-222222?style=for-the-badge&logo=GitHub Pages&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon CloudFront-569A31?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Amazon CloudFront-E05243?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Amazon Route 53-F68536?style=for-the-badge">
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub Pages-222222?style=for-the-badge&logo=GitHub Pages&logoColor=white">
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">
 </p>
