@@ -8,10 +8,10 @@
 <h1>I'm YooJin Ra</h1>
 
 <p>
-  ✔ 끊임없는 성장에 대한 열정을 가진 프론트엔드 개발자 나유진입니다.<br />
-  ✔ ‘하면 된다.’ 긍정적 마인드로 도전합니다.<br />
-  ✔ 1일 1커밋을 목표로 꾸준한 노력을 하고 있습니다.<br />
-  ✔ 함께해서 이루어낸 결과에 보람을 느낍니다.<br />
+  🔥 끊임없는 성장에 대한 열정을 가진 프론트엔드 개발자 나유진입니다.<br />
+  💪 ‘하면 된다.’ 긍정적 마인드로 도전합니다.<br />
+  🌱 1일 1커밋을 목표로 꾸준한 노력을 하고 있습니다.<br />
+  🚀 함께해서 이루어낸 결과에 보람을 느낍니다.<br />
 </p>
 
 <h2>Tech Stack :sparkles:</h2>
@@ -54,5 +54,5 @@
   <a href="https://www.instagram.com/dev___yoo/">
     <img src="https://img.shields.io/badge/@dev___yoo-E4405F?style=flat-square&logo=Instagram&logoColor=white" height="28px"/>
   </a> -->
-  <a href="mailto:dev.rayoojin@gmail.com"><img src="https://img.shields.io/badge/dev.rayoojin@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+  <a href="mailto:dev.rayoojin@gmail.com"><img src="https://img.shields.io/badge/dev.rayoojin@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 </div>
