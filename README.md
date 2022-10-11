@@ -46,7 +46,7 @@
 </p>
 
 ## Project
-#### [라이도](https://github.com/project-raidho/raidho_FE) 
+### [라이도](https://github.com/project-raidho/raidho_FE) 
 - "이미지 편집기능과 실시간 채팅을 활용한 여행 공유&모집 커뮤니티 서비스"
 - 기간 : 2022.08.26 - 10.07(6주)
 - 핵심경험
