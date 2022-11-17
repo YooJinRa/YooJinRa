@@ -13,8 +13,8 @@
 🚀 함께해서 이루어낸 결과에 보람을 느낍니다.
 ```
 
-<h2>Tech Stack</h2>
-<h3>💻 Frontend</h3>
+<h3>Tech Stack</h3>
+<h4>💻 Frontend</h4>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
 </p>
 
-<h3>💻 DevOps</h3>
+<h4>💻 DevOps</h4>
 <p>
   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon CloudFront-E05243?style=flat-square">
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white">
 </p>
-<h3>💻 IDE</h3>
+<h4>💻 IDE</h4>
 <p>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
