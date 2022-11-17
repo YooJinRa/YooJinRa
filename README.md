@@ -44,8 +44,8 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
 </p>
 
-## Project
-### 📌 [라이도](https://github.com/project-raidho/raidho_FE) 
+### Project
+#### 📌 [라이도](https://github.com/project-raidho/raidho_FE) 
 - "이미지 편집기능과 실시간 채팅을 활용한 여행 공유&모집 커뮤니티 서비스"
 - 기간 : 2022.08.26 - 10.07(6주)
 - 핵심경험
@@ -57,11 +57,11 @@
   > - 글로벌 스타일을 활용한 다크앤라이트 모드 및 반응형 구현<br>
   > - 리더의 역할맡아 프로젝트 진행(팀원들 간의 의견조율)<br>
 
-<h2>Github Stats</h2>
+<h3>Github Stats</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YooJinRa&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h2>Contacts</h2>
+<h3>Contacts</h3>
 <!-- <div>
   <a href="https://www.instagram.com/dev___yoo/">
     <img src="https://img.shields.io/badge/@dev___yoo-E4405F?style=flat-square&logo=Instagram&logoColor=white" height="28px"/>
