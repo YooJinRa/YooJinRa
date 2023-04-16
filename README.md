@@ -77,7 +77,7 @@
 
 <h3>Github Stats</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YooJinRa&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YooJinRa&margin-w=15&margin-h=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3>Contacts</h3>
 <!-- <div>
