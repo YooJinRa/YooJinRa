@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Persistence-CA4245?style=flat-square">
 </p>
 
-<h2>I'm YooJin Ra</h2>
+<h2>I'm Sarah Ra</h2>
 
 ```
 🔥 끊임없는 성장에 대한 열정을 가진 프론트엔드 개발자 나유진입니다.
@@ -17,6 +17,10 @@
 ```
 🌱 공부 및 프로젝트 한 것에 대해 1주일에 5번 GitHub 커밋하기(public).
 ```
+
+### Career
+2022.11 ~ : Web Frontend Developer, Bio Research Ai
+2022.07 ~ 2022.10 : Boot Camp HangHae99, Sparta Coding Club (React.js)
 
 <h3>Tech Stack</h3>
 <h4>💻 Frontend</h4>
