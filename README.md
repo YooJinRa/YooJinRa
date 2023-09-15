@@ -63,7 +63,7 @@
 </p>
 
 <h3>Certification</h3>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a10de512-b3a9-4f66-9db9-cb328d144149" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a10de512-b3a9-4f66-9db9-cb328d144149" data-share-badge-host="https://www.credly.com"></div>
 
 <h3>Github Stats</h3>
 
