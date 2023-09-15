@@ -63,7 +63,9 @@
 </p>
 
 <h3>Certification</h3>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a10de512-b3a9-4f66-9db9-cb328d144149" data-share-badge-host="https://www.credly.com"></div>
+<a href="https://www.credly.com/badges/a10de512-b3a9-4f66-9db9-cb328d144149/public_url">
+  <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="aws certification" />
+</a>
 
 <h3>Github Stats</h3>
 
