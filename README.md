@@ -13,11 +13,6 @@
 🚀 함께해서 이루어낸 결과에 보람을 느낍니다.
 ```
 
-### This Year's Goal
-```
-🌱 공부 및 프로젝트 한 것에 대해 1주일에 5번 GitHub 커밋하기(public).
-```
-
 ### Career
 - 2022.11 ~ : Web Frontend Developer, Bio Research Ai
 - 2022.07 ~ 2022.10 : Boot Camp HangHae99, Sparta Coding Club (React.js)
@@ -29,8 +24,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white">
-  <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white">
+  <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=React Query&logoColor=white">
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white">
   <img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=React Router&logoColor=white">
   <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=styled-components&logoColor=white">
