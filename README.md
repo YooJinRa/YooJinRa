@@ -21,35 +21,34 @@
 <h3>Tech Stack</h3>
 <h4>💻 Frontend</h4>
 <p>
-  <img src="https://img.shields.io/badge/react.js-666666?style=flat-square">
-  <img src="https://img.shields.io/badge/next.js-666666?style=flat-square">
-  <img src="https://img.shields.io/badge/d3.js-666666?style=flat-square">
-  <img src="https://img.shields.io/badge/typescript-666666?style=flat-square">
-  <img src="https://img.shields.io/badge/javascript-666666?style=flat-square">
-  <img src="https://img.shields.io/badge/axios-666666?style=flat-square">
-  <img src="https://img.shields.io/badge/react query-666666?style=flat-square">
-  <img src="https://img.shields.io/badge/storybook-666666?style=flat-square">
+  <img src="https://img.shields.io/badge/React.js-f6f8fa?style=flat-square">
+  <img src="https://img.shields.io/badge/Next.js-f6f8fa?style=flat-square">
+  <img src="https://img.shields.io/badge/D3.js-f6f8fa?style=flat-square">
+  <img src="https://img.shields.io/badge/Typescript-f6f8fa?style=flat-square">
+  <img src="https://img.shields.io/badge/Javascript-f6f8fa?style=flat-square">
+  <img src="https://img.shields.io/badge/Axios-f6f8fa?style=flat-square">
+  <img src="https://img.shields.io/badge/React Query-f6f8fa?style=flat-square">
+  <img src="https://img.shields.io/badge/Storybook-f6f8fa?style=flat-square">
 </p>
 
 <h4>💻 DevOps</h4>
 <p>
-  <img src="https://img.shields.io/badge/AWS S3-666666?style=flat-square">
-  <img src="https://img.shields.io/badge/AWS cloudefront-666666?style=flat-square">
-  <img src="https://img.shields.io/badge/AWS route53-666666?style=flat-square">
-  <img src="https://img.shields.io/badge/vercel-666666?style=flat-square">
-  <img src="https://img.shields.io/badge/github actions-666666?style=flat-square">
+  <img src="https://img.shields.io/badge/AWS S3-f6f8fa?style=flat-square">
+  <img src="https://img.shields.io/badge/AWS Cloudefront-f6f8fa?style=flat-square">
+  <img src="https://img.shields.io/badge/AWS Route53-f6f8fa?style=flat-square">
+  <img src="https://img.shields.io/badge/Vercel-f6f8fa?style=flat-square">
+  <img src="https://img.shields.io/badge/Github Actions-f6f8fa?style=flat-square">
 </p>
 <h4>💻 IDE</h4>
 <p>
-  <img src="https://img.shields.io/badge/cursor-666666?style=flat-square">
-  <img src="https://img.shields.io/badge/visual studio code-666666?style=flat-square">
+  <img src="https://img.shields.io/badge/Cursor-f6f8fa?style=flat-square">
+  <img src="https://img.shields.io/badge/Visual Studio Code-f6f8fa?style=flat-square">
 </p>
 <h4>💻 ETC</h4>
 <p>
-  <img src="https://img.shields.io/badge/jira-666666?style=flat-square">
-  <img src="https://img.shields.io/badge/confluence-666666?style=flat-square">
-  <img src="https://img.shields.io/badge/notion-666666?style=flat-square">
-  <img src="https://img.shields.io/badge/slack-666666?style=flat-square">
+  <img src="https://img.shields.io/badge/Jira-f6f8fa?style=flat-square">
+  <img src="https://img.shields.io/badge/Confluence-f6f8fa?style=flat-square">
+  <img src="https://img.shields.io/badge/Notion-f6f8fa?style=flat-square">
 </p>
 
 <h3>Certification</h3>
