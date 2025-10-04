@@ -56,10 +56,6 @@
   <img width="100" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="aws certification" />
 </a>
 
-<h3>Github Stats</h3>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YooJinRa&margin-w=15&margin-h=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <h3>Contacts</h3>
 <!-- <div>
   <a href="https://www.instagram.com/dev___yoo/">
