@@ -14,7 +14,7 @@
 ```
 
 ### Career
-- 2022.11 ~ : Web Frontend Developer, Bio Research Ai
+- 2022.11 ~ 2026.09 : Web Frontend Developer (Senior Manager, Team Lead), Bio Research Ai
 - 2022.07 ~ 2022.10 : Boot Camp HangHae99, Sparta Coding Club (React.js)
 
 
